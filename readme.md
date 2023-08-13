@@ -1,0 +1,1 @@
+This is a landing page project to be done in flexbox css
